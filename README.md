@@ -6,9 +6,7 @@
 
 This is the official PyTorch implementation of **[Mask Approximation Net: A Novel Diffusion Model Approach for Remote Sensing Change Captioning](https://ieeexplore.ieee.org/document/11075638)**.
 <!-- a project conducted at the [Institute of Advanced Research in Artificial Intelligence (IARAI)](https://www.iarai.ac.at/). -->
-### Authors  
-
-[**Dongwei Sun**](https://scholar.google.com/citations?user=dqF0XkYAAAAJ&hl=zh-CN) | [**Jing Yao**](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=zh-CN) | [**Wu Xue**]() | [**Changsheng Zhou**](https://scholar.google.com/citations?user=Uz7s7hsAAAAJ&hl=zh-CN) | [**Pedram Ghamisi**](https://scholar.google.com/citations?user=Gr9afd0AAAAJ&hl=zh-CN) | [**Xiangyong Cao**](https://scholar.google.com/citations?user=IePM9RsAAAAJ&hl=zh-CN)
+### Authors:  [Dongwei Sun](https://scholar.google.com/citations?user=dqF0XkYAAAAJ&hl=zh-CN), [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=zh-CN), [Wu Xue](), [Changsheng Zhou](https://scholar.google.com/citations?user=Uz7s7hsAAAAJ&hl=zh-CN), [Pedram Ghamisi](https://scholar.google.com/citations?user=Gr9afd0AAAAJ&hl=zh-CN), [Xiangyong Cao](https://scholar.google.com/citations?user=IePM9RsAAAAJ&hl=zh-CN)
 
 ### Preparation
 - Install the required packages: `pip install -r requirements.txt`
